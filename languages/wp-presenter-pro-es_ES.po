@@ -1,0 +1,816 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Presenter Pro\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-presenter-"
+"pro\n"
+"POT-Creation-Date: 2020-01-02 12:07-0600\n"
+"PO-Revision-Date: 2020-01-02 12:08-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-presenter-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: src\n"
+
+#: dist/blocks.build.js:1
+msgid "None"
+msgstr "Ninguno"
+
+#: dist/blocks.build.js:1
+msgid "Up"
+msgstr "Arriba"
+
+#: dist/blocks.build.js:1
+msgid "Down"
+msgstr "Abajo"
+
+#: dist/blocks.build.js:1
+msgid "Left"
+msgstr "Izquierda"
+
+#: dist/blocks.build.js:1
+msgid "Right"
+msgstr "Derecha"
+
+#: dist/blocks.build.js:1
+msgid "Grow"
+msgstr "Aumentar"
+
+#: dist/blocks.build.js:1
+msgid "Shrink"
+msgstr "Reducir"
+
+#: dist/blocks.build.js:1
+msgid "Fade Right"
+msgstr "Fundido derecha"
+
+#: dist/blocks.build.js:1
+msgid "Fade Out"
+msgstr "Desaparecer"
+
+#: dist/blocks.build.js:1
+msgid "Fade Up"
+msgstr "Fundido arriba"
+
+#: dist/blocks.build.js:1
+msgid "Fade In Then Out"
+msgstr "Desaparecer y luego salir"
+
+#: dist/blocks.build.js:1
+msgid "Fade In Then Semi Out"
+msgstr "Fade In Then Semi Out"
+
+#: dist/blocks.build.js:1
+msgid "Beige"
+msgstr "Beige"
+
+#: dist/blocks.build.js:1
+msgid "Black"
+msgstr "Negro"
+
+#: dist/blocks.build.js:1
+msgid "Blood"
+msgstr "Sangre"
+
+#: dist/blocks.build.js:1
+msgid "League"
+msgstr "Añadir nueva tabla de Liga"
+
+#: dist/blocks.build.js:1
+msgid "Moon"
+msgstr "Luna"
+
+#: dist/blocks.build.js:1
+msgid "Night"
+msgstr "Noche"
+
+#: dist/blocks.build.js:1
+msgid "Serif"
+msgstr "Serif"
+
+#: dist/blocks.build.js:1
+msgid "Solarized"
+msgstr "Solarizado"
+
+#: dist/blocks.build.js:1
+msgid "White"
+msgstr "Blanco"
+
+#: dist/blocks.build.js:1
+msgid "Presentation Options"
+msgstr "Opciones de presentación"
+
+#: dist/blocks.build.js:1
+msgid "Navigation"
+msgstr "Navegación"
+
+#: dist/blocks.build.js:1
+msgid "Display Controls"
+msgstr "Controles de la pantalla"
+
+#: dist/blocks.build.js:1
+msgid "Keyboard Shortcuts"
+msgstr "Atajos de teclado"
+
+#: dist/blocks.build.js:1
+msgid "Mousewheel Navigation"
+msgstr "Navegación de MouseWheel"
+
+#: dist/blocks.build.js:1
+msgid "Presentation Settings"
+msgstr "Ajustes de la presentación"
+
+#: dist/blocks.build.js:1
+msgid "Loop Slides"
+msgstr "Diapositivas en bucle"
+
+#: dist/blocks.build.js:1
+msgid "Right to Left"
+msgstr "De Derecha a Izquierda"
+
+#: dist/blocks.build.js:1
+msgid "Push History"
+msgstr "Historia de Push"
+
+#: dist/blocks.build.js:1
+msgid "Visual Settings"
+msgstr "Ajustes visuales"
+
+#: dist/blocks.build.js:1
+msgid "Progress Bar"
+msgstr "Barra de progreso"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Slide Number"
+msgstr "Número de la diapositiva"
+
+#: dist/blocks.build.js:1
+msgid "Theme"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Slide Size"
+msgstr "Lista de diapositivas"
+
+#: dist/blocks.build.js:1
+msgid "Width"
+msgstr "Ancho"
+
+#: dist/blocks.build.js:1
+msgid "Margin"
+msgstr "Margen"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Minimum Scale"
+msgstr "Escala mínima"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Maximum Scale"
+msgstr "Escala máxima"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Headers and Footers"
+msgstr "Encabezados y pies de página"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Left Header"
+msgstr "Cabezal izquierdo"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "HTML Allowed"
+msgstr "HTML permitido"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Right Header"
+msgstr "Cabecera derecha"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Left Footer"
+msgstr "Pie izquierdo"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Right Footer"
+msgstr "Pie derecho"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Slide"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+msgid "slide"
+msgstr "slide"
+
+#: dist/blocks.build.js:1
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: dist/blocks.build.js:1 php/admin/class-post-type.php:82
+#: php/admin/class-post-type.php:115 php/admin/class-post-type.php:116
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Convex"
+msgstr "Convexo"
+
+#: dist/blocks.build.js:1
+msgid "Concave"
+msgstr "Cóncavo"
+
+#: dist/blocks.build.js:1
+msgid "Zoom"
+msgstr "Zoom"
+
+#: dist/blocks.build.js:1
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: dist/blocks.build.js:1
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: dist/blocks.build.js:1
+msgid "Video"
+msgstr "Video"
+
+#: dist/blocks.build.js:1
+msgid "iFrame"
+msgstr "iFrame"
+
+#: dist/blocks.build.js:1
+msgid "Cover"
+msgstr "Cubrir"
+
+#: dist/blocks.build.js:1
+msgid "Repeat Image"
+msgstr "Repetir imagen"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Settings"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Select a Background Type"
+msgstr "Seleccione un tipo de fondo"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Enter your iFrame URL here. No other blocks will be shown"
+msgstr "Introduce tu URL de iFrame aquí. No se mostrarán otros bloques"
+
+#: dist/blocks.build.js:1
+msgid "Remove Background Image"
+msgstr "Eliminar la imagen de fondo"
+
+#: dist/blocks.build.js:1
+msgid "Background Video"
+msgstr "Video de fondo"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Remove Background Video"
+msgstr "Eliminar el video de fondo"
+
+#: dist/blocks.build.js:1
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Select a Transition"
+msgstr "Seleccione una transición"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Select a Background Transition"
+msgstr "Seleccione una transición de fondo"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Speaker Notes"
+msgstr "Notas del orador"
+
+#: dist/blocks.build.js:1
+msgid "Slide Title"
+msgstr "Título de la diapositiva"
+
+#: dist/blocks.build.js:1
+msgid "title"
+msgstr "título"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Title"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Select a Font"
+msgstr "Seleccione una fuente"
+
+#: dist/blocks.build.js:1
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: dist/blocks.build.js:1
+msgid "Padding"
+msgstr "Relleno"
+
+#: dist/blocks.build.js:1
+msgid "Radius"
+msgstr "Radio"
+
+#: dist/blocks.build.js:1
+msgid "Change Capitilization"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Enter a slide title here..."
+msgstr "Escriba el título de la diapositiva aquí..."
+
+#: dist/blocks.build.js:1
+msgid "Text Box"
+msgstr "Caja de texto"
+
+#: dist/blocks.build.js:1
+msgid "text"
+msgstr "texto"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Text Box"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Enter some text here!"
+msgstr "Escriba un texto aquí!"
+
+#: dist/blocks.build.js:1
+msgid "Code"
+msgstr "Código"
+
+#: dist/blocks.build.js:1
+msgid "code"
+msgstr "código"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Code Editor"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Enter your code here."
+msgstr "Introduzca su código aquí."
+
+#: dist/blocks.build.js:1
+msgid "Presentation code"
+msgstr "Código de presentación"
+
+#: dist/blocks.build.js:1
+msgid "List Item"
+msgstr "Elemento de la lista"
+
+#: dist/blocks.build.js:1
+msgid "list"
+msgstr "lista"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Unordered List"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Enter text..."
+msgstr "Introduce texto aquí..."
+
+#: dist/blocks.build.js:1
+msgid "Ordered List"
+msgstr "Lista ordenada"
+
+#: dist/blocks.build.js:1
+msgid "Image"
+msgstr "Imagen"
+
+#: dist/blocks.build.js:1
+msgid "image"
+msgstr "imagen"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Image"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Select an Image Size"
+msgstr "Seleccione un tamaño de imagen"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Slide Spacer"
+msgstr "Archivos de diapositivas"
+
+#: dist/blocks.build.js:1
+msgid "spacer"
+msgstr "espaciador"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Spacer"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+msgid "Height"
+msgstr "Altura"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "This is a spacer. No content will be shown."
+msgstr "Esto es un espaciador. No se mostrará ningún contenido."
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Content/Image Two Columns"
+msgstr "Contenido/Imagen Dos Columnas"
+
+#: dist/blocks.build.js:1
+msgid "content"
+msgstr "contenido"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Content/Image"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+msgid "Enter text here..."
+msgstr "Introduce texto aquí..."
+
+#: dist/blocks.build.js:1
+msgid "Content"
+msgstr "Contenido"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Content"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Content Two Columns"
+msgstr "Contenido Dos Columnas"
+
+#: dist/blocks.build.js:1
+msgid "columns"
+msgstr "columnas"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Content Two Columns"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Enter content here..."
+msgstr "Ingrese el contenido aquí..."
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Vertical Slide"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Transition"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+msgid "transition"
+msgstr "transición"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Transition Block"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+msgid "Blockquote"
+msgstr "Blockquote"
+
+#: dist/blocks.build.js:1
+msgid "blockquote"
+msgstr "blockquote"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "WP Presenter Pro Blockquote"
+msgstr "WP Presenter Pro"
+
+#: dist/blocks.build.js:1
+#, fuzzy
+msgid "Enter your blockquote here."
+msgstr "Escriba aquí su cita de bloqueo."
+
+#: dist/blocks.build.js:1
+msgid "Blockquote content."
+msgstr "Contenido de Bloque de cita"
+
+#. Plugin Name of the plugin/theme
+#: php/admin/class-post-type.php:65
+msgid "WP Presenter Pro"
+msgstr "WP Presenter Pro"
+
+#: php/admin/class-post-type.php:79
+msgctxt "Post Type General Name"
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: php/admin/class-post-type.php:80
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: php/admin/class-post-type.php:81
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: php/admin/class-post-type.php:83
+#, fuzzy
+msgid "Slide Archives"
+msgstr "Archivos de diapositivas"
+
+#: php/admin/class-post-type.php:84
+#, fuzzy
+msgid "Slide Attributes"
+msgstr "Atributos de la diapositiva"
+
+#: php/admin/class-post-type.php:85
+msgid "Parent Item:"
+msgstr "Item padre:"
+
+#: php/admin/class-post-type.php:86
+msgid "All Slides"
+msgstr "Todas las diapositivas"
+
+#: php/admin/class-post-type.php:87 php/admin/class-post-type.php:88
+msgid "Add New Slide"
+msgstr "Agregar Nuevo Slide"
+
+#: php/admin/class-post-type.php:89
+msgid "New Slide"
+msgstr "Nuevo Slide"
+
+#: php/admin/class-post-type.php:90
+msgid "Edit Slide"
+msgstr "Editar Diapositiva"
+
+#: php/admin/class-post-type.php:91
+msgid "Update Slide"
+msgstr "Actualizar Slide"
+
+#: php/admin/class-post-type.php:92
+msgid "View Slide"
+msgstr "Ver Slide"
+
+#: php/admin/class-post-type.php:93
+msgid "View Slides"
+msgstr "Ver Slides"
+
+#: php/admin/class-post-type.php:94
+msgid "Search Slides"
+msgstr "Buscar Slides"
+
+#: php/admin/class-post-type.php:95
+msgid "Not found"
+msgstr "No encontrado"
+
+#: php/admin/class-post-type.php:96
+msgid "Not found in Trash"
+msgstr "No encontrado en la papelera"
+
+#: php/admin/class-post-type.php:97
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: php/admin/class-post-type.php:98
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: php/admin/class-post-type.php:99
+msgid "Remove featured image"
+msgstr "Eliminar la imagen destacada"
+
+#: php/admin/class-post-type.php:100
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: php/admin/class-post-type.php:101
+msgid "Insert into item"
+msgstr "Insertar en el elemento"
+
+#: php/admin/class-post-type.php:102
+#, fuzzy
+msgid "Uploaded to this Slide"
+msgstr "Subido a esta diapositiva"
+
+#: php/admin/class-post-type.php:103
+#, fuzzy
+msgid "Slide List"
+msgstr "Lista de diapositivas"
+
+#: php/admin/class-post-type.php:104
+#, fuzzy
+msgid "Slide list navigation"
+msgstr "Navegación con lista de diapositivas"
+
+#: php/admin/class-post-type.php:105
+#, fuzzy
+msgid "Filter Slide list"
+msgstr "Filtrar Lista de diapositivas"
+
+#: php/blocks/class-enqueue.php:56
+msgctxt "Font Name"
+msgid "Bubblegum"
+msgstr "Bubblegum"
+
+#: php/blocks/class-enqueue.php:57
+msgctxt "Font Name"
+msgid "Dosis"
+msgstr "Dosis"
+
+#: php/blocks/class-enqueue.php:58
+msgctxt "Font Name"
+msgid "Encode"
+msgstr "Codifica"
+
+#: php/blocks/class-enqueue.php:59
+msgctxt "Font Name"
+msgid "Lato"
+msgstr "Lato"
+
+#: php/blocks/class-enqueue.php:60
+msgctxt "Font Name"
+msgid "League"
+msgstr "Añadir nueva tabla de Liga"
+
+#: php/blocks/class-enqueue.php:61
+msgctxt "Font Name"
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: php/blocks/class-enqueue.php:62
+msgctxt "Font Name"
+msgid "Monstserrat"
+msgstr "Monstserrat"
+
+#: php/blocks/class-enqueue.php:63
+msgctxt "Font Name"
+msgid "News Cycle"
+msgstr "Ciclo de noticias"
+
+#: php/blocks/class-enqueue.php:64
+msgctxt "Font Name"
+msgid "Libre Baskerville"
+msgstr "Libre Baskerville"
+
+#: php/blocks/class-enqueue.php:65
+msgctxt "Font Name"
+msgid "Quicksand"
+msgstr "Arenas movedizas"
+
+#: php/blocks/class-enqueue.php:66
+msgctxt "Font Name"
+msgid "Sinkins Sans"
+msgstr "Sinkins Sans"
+
+#: php/blocks/class-enqueue.php:67
+msgctxt "Font Name"
+msgid "Source Sans Pro"
+msgstr "Fuente Sans Pro"
+
+#: php/blocks/class-enqueue.php:68
+msgctxt "Font Name"
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: wp-presenter-pro.php:60
+#, fuzzy
+msgid ""
+"WP Presenter Pro plugin error: Your version of PHP is too old to run this "
+"plugin. You must be running PHP 5.4 or higher."
+msgstr ""
+"Error del plugin WP Presenter Pro: Su versión de PHP es demasiado antigua "
+"para ejecutar este plugin. Debe estar ejecutando PHP 5.4 o superior."
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://mediaron.com/wp-presenter-pro-documentation/"
+msgstr "https://mediaron.com/downloads/wp-presenter-pro/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "A plugin for allowing you to do presentations using WordPress."
+msgstr "Un plugin que permite hacer presentaciones con WordPress."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "MediaRon LLC"
+msgstr "MediaRon LLC"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://mediaron.com"
+msgstr "https://mediaron.com"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Presentations"
+#~ msgstr "Presentaciones"
+
+#~ msgid "Presentations"
+#~ msgstr "Presentaciones"
+
+#~ msgid "All Presentations"
+#~ msgstr "Todas las presentaciones"
+
+#, fuzzy
+#~ msgid "Parent Presentation"
+#~ msgstr "Presentación para los padres"
+
+#, fuzzy
+#~ msgid "Parent Presentation:"
+#~ msgstr "Presentación para los padres:"
+
+#, fuzzy
+#~ msgid "New Presentation Name"
+#~ msgstr "Nuevo nombre de la presentación"
+
+#~ msgid "Add New Presentation"
+#~ msgstr "Agregar presentación"
+
+#~ msgid "Edit Presentation"
+#~ msgstr "Editar presentación"
+
+#~ msgid "Update Presentation"
+#~ msgstr "Actualizar presentación"
+
+#~ msgid "View Presentation"
+#~ msgstr "Ver presentaciones"
+
+#~ msgid "Separate Presentations with commas"
+#~ msgstr "Presentaciones separadas con comas"
+
+#, fuzzy
+#~ msgid "Add or remove Presentations"
+#~ msgstr "Agregar o quitar Presentaciones"
+
+#~ msgid "Choose from the most used"
+#~ msgstr "Elegir entre los más utilizados"
+
+#, fuzzy
+#~ msgid "Popular Presentations"
+#~ msgstr "Presentaciones populares"
+
+#~ msgid "Search Presentations"
+#~ msgstr "Buscar presentaciones"
+
+#~ msgid "Not Found"
+#~ msgstr "No encontrado"
+
+#, fuzzy
+#~ msgid "No Presentations"
+#~ msgstr "No hay presentaciones"
+
+#, fuzzy
+#~ msgid "Presentations list navigation"
+#~ msgstr "Navegación de la lista de presentaciones"

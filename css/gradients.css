@@ -1,0 +1,19 @@
+button.wppp-gradient {
+	position: relative;
+	cursor: pointer; 
+}
+button.wppp-gradient.unchecked:hover {
+	background: #DDD;
+}
+button.wppp-gradient span {
+	display: inline-block;
+	border-radius: 50%;
+	margin: 10px;
+	width:50px;
+	height: 50px;
+	box-sizing: border-box;
+}
+button.wppp-gradient.checked {
+	background-color: #bcdbad;
+	border-color: green;
+}

@@ -1,0 +1,715 @@
+# Copyright (C) 2020 MediaRon LLC
+# This file is distributed under the same license as the WP Presenter Pro plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Presenter Pro 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-presenter-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-01-02T18:04:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: wp-presenter-pro\n"
+
+#. Plugin Name of the plugin
+msgid "WP Presenter Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://mediaron.com/wp-presenter-pro-documentation/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin for allowing you to do presentations using WordPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "MediaRon LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mediaron.com"
+msgstr ""
+
+#: php/admin/class-post-type.php:79
+msgctxt "Post Type General Name"
+msgid "Slides"
+msgstr ""
+
+#: php/admin/class-post-type.php:80
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr ""
+
+#: php/admin/class-post-type.php:81
+msgid "Slides"
+msgstr ""
+
+#: php/admin/class-post-type.php:82
+#: php/admin/class-post-type.php:115
+#: php/admin/class-post-type.php:116
+#: dist/blocks.build.js:1
+msgid "Slide"
+msgstr ""
+
+#: php/admin/class-post-type.php:83
+msgid "Slide Archives"
+msgstr ""
+
+#: php/admin/class-post-type.php:84
+msgid "Slide Attributes"
+msgstr ""
+
+#: php/admin/class-post-type.php:85
+msgid "Parent Item:"
+msgstr ""
+
+#: php/admin/class-post-type.php:86
+msgid "All Slides"
+msgstr ""
+
+#: php/admin/class-post-type.php:87
+#: php/admin/class-post-type.php:88
+msgid "Add New Slide"
+msgstr ""
+
+#: php/admin/class-post-type.php:89
+msgid "New Slide"
+msgstr ""
+
+#: php/admin/class-post-type.php:90
+msgid "Edit Slide"
+msgstr ""
+
+#: php/admin/class-post-type.php:91
+msgid "Update Slide"
+msgstr ""
+
+#: php/admin/class-post-type.php:92
+msgid "View Slide"
+msgstr ""
+
+#: php/admin/class-post-type.php:93
+msgid "View Slides"
+msgstr ""
+
+#: php/admin/class-post-type.php:94
+msgid "Search Slides"
+msgstr ""
+
+#: php/admin/class-post-type.php:95
+msgid "Not found"
+msgstr ""
+
+#: php/admin/class-post-type.php:96
+msgid "Not found in Trash"
+msgstr ""
+
+#: php/admin/class-post-type.php:97
+msgid "Featured Image"
+msgstr ""
+
+#: php/admin/class-post-type.php:98
+msgid "Set featured image"
+msgstr ""
+
+#: php/admin/class-post-type.php:99
+msgid "Remove featured image"
+msgstr ""
+
+#: php/admin/class-post-type.php:100
+msgid "Use as featured image"
+msgstr ""
+
+#: php/admin/class-post-type.php:101
+msgid "Insert into item"
+msgstr ""
+
+#: php/admin/class-post-type.php:102
+msgid "Uploaded to this Slide"
+msgstr ""
+
+#: php/admin/class-post-type.php:103
+msgid "Slide List"
+msgstr ""
+
+#: php/admin/class-post-type.php:104
+msgid "Slide list navigation"
+msgstr ""
+
+#: php/admin/class-post-type.php:105
+msgid "Filter Slide list"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:56
+msgctxt "Font Name"
+msgid "Bubblegum"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:57
+msgctxt "Font Name"
+msgid "Dosis"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:58
+msgctxt "Font Name"
+msgid "Encode"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:59
+msgctxt "Font Name"
+msgid "Lato"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:60
+msgctxt "Font Name"
+msgid "League"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:61
+msgctxt "Font Name"
+msgid "Merriweather"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:62
+msgctxt "Font Name"
+msgid "Monstserrat"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:63
+msgctxt "Font Name"
+msgid "News Cycle"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:64
+msgctxt "Font Name"
+msgid "Libre Baskerville"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:65
+msgctxt "Font Name"
+msgid "Quicksand"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:66
+msgctxt "Font Name"
+msgid "Sinkins Sans"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:67
+msgctxt "Font Name"
+msgid "Source Sans Pro"
+msgstr ""
+
+#: php/blocks/class-enqueue.php:68
+msgctxt "Font Name"
+msgid "Ubuntu"
+msgstr ""
+
+#: wp-presenter-pro.php:60
+msgid "WP Presenter Pro plugin error: Your version of PHP is too old to run this plugin. You must be running PHP 5.4 or higher."
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:66
+msgid "None"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Down"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Grow"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Shrink"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Right"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Out"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade Up"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade In Then Out"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade In Then Semi Out"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:67
+msgid "Beige"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:68
+msgid "Black"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:69
+msgid "Blood"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:70
+msgid "League"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:71
+msgid "Moon"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:72
+msgid "Night"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:73
+msgid "Serif"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:74
+msgid "Solarized"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:75
+msgid "White"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:80
+msgid "Presentation Options"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:82
+msgid "Navigation"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:84
+msgid "Display Controls"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:89
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:94
+msgid "Mousewheel Navigation"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:99
+msgid "Presentation Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:101
+msgid "Loop Slides"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:106
+msgid "Right to Left"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:111
+msgid "Push History"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:116
+msgid "Visual Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:118
+msgid "Progress Bar"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:123
+msgid "Slide Number"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:134
+msgid "Slide Size"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:136
+#: src/blocks.js:142
+msgid "Width"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:148
+msgid "Margin"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:154
+msgid "Minimum Scale"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:160
+msgid "Maximum Scale"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:166
+msgid "Headers and Footers"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:168
+msgid "Left Header"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:170
+#: src/blocks.js:176
+#: src/blocks.js:182
+#: src/blocks.js:188
+msgid "HTML Allowed"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:174
+msgid "Right Header"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:180
+msgid "Left Footer"
+msgstr ""
+
+#: dist/blocks.build.js:1
+#: src/blocks.js:186
+msgid "Right Footer"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Slide"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "slide"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Fade"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Convex"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Concave"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Zoom"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Background Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Background Image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Video"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "iFrame"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Cover"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Repeat Image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Settings"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select a Background Type"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter your iFrame URL here. No other blocks will be shown"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Remove Background Image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Background Video"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Remove Background Video"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Text Color"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select a Transition"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select a Background Transition"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Speaker Notes"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Title"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "title"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Title"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select a Font"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Font Size"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Padding"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Radius"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter a slide title here..."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Text Box"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "text"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Text Box"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter some text here!"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Code"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "code"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Code Editor"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter your code here."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Presentation code"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "List Item"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "list"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Unordered List"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter text..."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Ordered List"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Select an Image Size"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Slide Spacer"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "spacer"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Spacer"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Height"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "This is a spacer. No content will be shown."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Content/Image Two Columns"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "content"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Content/Image"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter text here..."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Content"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Content"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Content Two Columns"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "columns"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Content Two Columns"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter content here..."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Vertical Slide"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Transition"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "transition"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Transition Block"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Blockquote"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "blockquote"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "WP Presenter Pro Blockquote"
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Enter your blockquote here."
+msgstr ""
+
+#: dist/blocks.build.js:1
+msgid "Blockquote content."
+msgstr ""
